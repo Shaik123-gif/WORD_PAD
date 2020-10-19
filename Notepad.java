@@ -77,7 +77,7 @@ public void windowClosing(WindowEvent we)
 System.out.println("hello");
 if(happen==0)
 {
-JOptionPane.showMessageDialog(j,"you not save the file");
+JOptionPane.showMessageDialog(j,"you haven't saved the file");
 }
 }
 public void windowClosed(WindowEvent we)
